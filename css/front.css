@@ -1,0 +1,46 @@
+@charset "UTF-8";
+html, body {
+	background-color: #282828;
+	color: #f9faec;
+}
+a {
+	text-decoration: none;
+}
+#dach {
+	background-color: #888888;
+	box-shadow: 2px 1px 16px 0px rgba(0, 0, 0, 0.75) !important;
+}
+#stopka {
+	background-color: #888888;
+	box-shadow: 2px 1px 16px 0px rgba(0, 0, 0, 0.75) !important;
+}
+#front {
+	background-color: #666666;
+	box-shadow: inset 0px 0px 9px 3px #282828;
+}
+#lewy, #center, #linki, #stopka {
+	font-size: 20px;
+	text-align: center;
+	text-shadow: -6px 4px 5px #282828, 2px -1px 7px #ff0000 ;
+}
+.belka_g {
+	text-align: center;
+	text-shadow: -6px 4px 5px #282828, 2px -1px 7px #00ff00 ;
+}
+.belka_d {
+	text-align: center;
+	text-shadow: -6px 4px 5px #282828, 2px -1px 7px #00ff00 ;
+}
+.belka_end {
+	text-align: center;
+	text-shadow: -6px 4px 5px #282828, 2px -1px 7px #00ff00 ;
+}
+.karta {
+	font-size: 15px;
+	padding: 30px;
+	background: rgba(200, 200, 200, .3);
+}
+em:nth-of-type(2n+1) {
+	background: rgba(200, 200, 200, .3);
+	
+}

@@ -1,0 +1,75 @@
+@charset "UTF-8";
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#zero {
+	width: 1220px;
+	height: 100%;
+	margin: 0px auto;
+}
+#dach {
+	top: 0;
+	width: 1220px;
+	height: 130px;
+	position: fixed;
+}
+#lewy {
+	width: 400px;
+	height: 90px;
+	float: left;
+}
+#center {
+	width: 420px;
+	height: 90px;
+	float: left;
+}
+#prawy {
+	width: 400px;
+	height: 90px;
+	float: left;
+}
+#linki {
+	height: 40px;
+	margin-top: 90px;
+}
+#linki li {
+	margin: 0 10px;
+	display: inline;
+}
+#stopka {
+	bottom: 0;
+	width: 1220px;
+	height: 50px;
+	position: fixed;
+}
+#front {
+	top: 130px;
+	bottom: auto;
+	width: 1220px;
+	min-height: 100%;
+	z-index: -100;
+	position: absolute;
+}
+.belka_g {
+	height: 44px;
+	width: 1220px;
+	margin: 0;
+}
+.karta {
+	min-height: auto;
+	width: 1220px;
+}
+
+.belka_d {
+	height: 31px;
+	width: 1220px;
+	margin: 0;
+}
+.belka_end {
+	height: 31px;
+	width: 1220px;
+	margin: 0;
+	margin-bottom: 50px;
+}

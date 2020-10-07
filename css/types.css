@@ -1,0 +1,32 @@
+@charset "UTF-8";
+#alfa {}
+#alfa:link {
+	color: #f9faec;
+}
+#alfa:hover{
+	color: #f9faec;
+	text-shadow: -6px 4px 5px #282828, 2px -1px 7px #ff0000 ;
+}
+#bravo {}
+#bravo:link {
+	color: #f9cae0;
+}
+#bravo:hover{
+	color: #f9faec;
+	text-shadow: -6px 4px 5px #282828, 2px -1px 7px #00ff00 ;
+}
+#certo {}
+#certo:hover{
+	color: #f9faec;
+	text-shadow: -6px 4px 5px #282828, 2px -1px 7px #0000ff ;
+}
+#delta {}
+#delta:hover{
+	color: #f9faec;
+	text-shadow: -6px 4px 5px #282828, 2px -1px 7px #ff0077 ;
+}
+#echo {}
+#echo:hover{
+	color: #f9faec;
+	text-shadow: -6px 4px 5px #282828, 2px -1px 7px #7700ff ;
+}
